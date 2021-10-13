@@ -3,7 +3,7 @@
   --green: #49aa26;
   --light-green: #3dd705;
   --red: #e92929;
-  --header-bg: #4a136e;
+  --header-bg: #3e0564;
 }
 
 * {
@@ -96,6 +96,7 @@ button:hover {
 }
 
 header {
+  height: 200px;
   background: var(--header-bg);
   padding: 5rem 0 15rem;
   text-align: center;
